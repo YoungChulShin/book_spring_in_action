@@ -1,1 +1,2 @@
-# study_book_spring_in_action
+# 설명
+'Spring in Action' 책 예제 
