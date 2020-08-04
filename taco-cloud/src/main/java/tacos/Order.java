@@ -4,10 +4,12 @@ import lombok.Data;
 import org.hibernate.validator.constraints.CreditCardNumber;
 
 import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotEmpty;
+import java.time.LocalDateTime;
 
 @Data
 public class Order {
+
+    private Long id;
 
     @NotBlank(message = "is requrired")
     private String deliveryName;
@@ -23,4 +25,6 @@ public class Order {
     private String ccNumber;
     private String ccExpiration;
     private String ccCVV;
+
+    private LocalDateTime placedAt;
 }
