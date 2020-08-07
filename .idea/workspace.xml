@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c812d468-952f-4a99-b29a-fbecd5a076f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/taco-cloud/src/main/java/tacos/web/api/TacoResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taco-cloud/src/main/java/tacos/web/api/TacoResourceAssembler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fkWdVyY5N1PIYKtnpwyDIkaa2u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c812d468-952f-4a99-b29a-fbecd5a076f2" name="Default Changelist" comment="" />
+      <created>1596762658906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596762658906</updated>
+      <workItem from="1596762669656" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
